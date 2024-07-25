@@ -12,7 +12,7 @@ with 12 years of experience in software development and the last 5 years dedicat
 - 🎓 **Education**: Computer Science from Liverpool Hope University
 - 🏆 **Awards**: Have won the Microsoft Hackathon of 2023
 - 🌍 **Location**: Bangalore, Noida, Kolkata - India
-- 🌱 **Learning**: I’m currently learning about Azure solutions and enhancing my skills in Neo4j as Graph DB.
+- 🌱 **Learning**: I’m currently learning about Azure solutions and enhancing my skills in Neo4j as GraphDB.
 
 ## Skills
 
@@ -28,7 +28,7 @@ Here are some of the projects I've worked on as personal level:
 
 - [Expense Management App](https://github.com/JicoDotNet/Expense-Management-Bucket): Small cloud based web app to manage daily Expense.
 - [Online Sharable eNotepad](https://github.com/JicoDotNet/Online-Sharable-eNotepad-AspNet-With-AzureTableStorage): Online note sharing for online tutor.
-- [Inventory & GST billing ERP](https://github.com/JicoDotNet/Full-Inventory-by-Asp-Net-Azure) - (Private): Full ERP of Inventory, Stock and Billing cloud based scalable software for Indian only
+- [Inventory & GST billing ERP - (Private)](https://github.com/JicoDotNet/Full-Inventory-by-Asp-Net-Azure): Full ERP of Inventory, Stock and Billing cloud based scalable software for Indian only
 
 ## Get in Touch
 
