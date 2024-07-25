@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile!
 
 👋 Hi, I'm Soubhik Nandy 
+😄 Pronouns: He/Him
 
 I'm a seasoned developer with over 12 years of experience specializing in .NET Technologies and Azure Cloud solutions. Passionate about creating efficient and scalable software, I enjoy tackling complex problems and contributing to open-source & proprietary projects.
 
@@ -9,7 +10,7 @@ I'm a seasoned developer with over 12 years of experience specializing in .NET T
 - 💼 **Current Role**: Lead Consultant at Infosys Limited
 - 🏢 **Past Experience**: Extensive experience in software development, architecture, and cloud computing.
 - 🎓 **Education**: Computer Science from Liverpool Hope University
-- 🏆 **Awards**: Microsoft Hacathon 2nd Ranner up of 2023
+- 🏆 **Awards**: Have won the Microsoft Hackathon of 2023
 - 🌍 **Location**: Bangalore, Noida, Kolkata - India
 - 🌱 **Learning**: I’m currently learning about Azure solutions and enhancing my skills in Neo4j as Graph DB.
 
@@ -25,15 +26,14 @@ I'm a seasoned developer with over 12 years of experience specializing in .NET T
 
 Here are some of the projects I've worked on as personal level:
 
-- [Project Name](link-to-project): Brief description of the project.
-- [Project Name](link-to-project): Brief description of the project.
-- [Project Name](link-to-project): Brief description of the project.
+- [Expense Management App](https://github.com/JicoDotNet/Expense-Management-Bucket): Small cloud based web app to manage daily Expense.
+- [Online Sharable eNotepad]((https://github.com/JicoDotNet/Online-Sharable-eNotepad-AspNet-With-AzureTableStorage): Online note sharing for online tutor.
+- [Inventory & GST billing ERP](https://github.com/JicoDotNet/Full-Inventory-by-Asp-Net-Azure): This is private repo. Full ERP of Inventory, STock and Billing cloud based software for Indian Only
 
 ## Get in Touch
 
-- 📫 **Email**: [Your Email Address]
-- 💼 **LinkedIn**: [Your LinkedIn Profile]
-- 🐦 **Twitter**: [Your Twitter Handle]
+- 📫 **Email**: [github.connect@soubhiknandy.com]
+- 💼 **LinkedIn**: [Better to connect here 😄]
 
 ## Fun Facts
 
