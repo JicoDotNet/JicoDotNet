@@ -1,13 +1,13 @@
 # Welcome to My GitHub Profile!
 
-👋 Hi, I'm Soubhik Nandy 
-😄 Pronouns: He/Him
+👋 Hi, I'm Soubhik Nandy (He/Him)
 
-I'm a seasoned developer with over 12 years of experience specializing in .NET Technologies and Azure Cloud solutions. Passionate about creating efficient and scalable software, I enjoy tackling complex problems and contributing to open-source & proprietary projects.
+with 12 years of experience in software development and the last 5 years dedicated to tech team handling, I bring a wealth of expertise in `.NET Technology`, `Azure development` & `Cloud solutions`, and `GraphDB like Neo4j`. My career has spanned multiple domains, including `ECommerce`, `Retail`, `Business solutions`, `Social Platform` and `Enterprise-level solutions`, allowing me to develop a well-rounded skill set and a deep understanding of various industries.
+
 
 ## About Me
 
-- 💼 **Current Role**: Lead Consultant at Infosys Limited
+- 💼 **Current Role**: Lead Consultant at Infosys Limited (India)
 - 🏢 **Past Experience**: Extensive experience in software development, architecture, and cloud computing.
 - 🎓 **Education**: Computer Science from Liverpool Hope University
 - 🏆 **Awards**: Have won the Microsoft Hackathon of 2023
@@ -27,8 +27,8 @@ I'm a seasoned developer with over 12 years of experience specializing in .NET T
 Here are some of the projects I've worked on as personal level:
 
 - [Expense Management App](https://github.com/JicoDotNet/Expense-Management-Bucket): Small cloud based web app to manage daily Expense.
-- [Online Sharable eNotepad]((https://github.com/JicoDotNet/Online-Sharable-eNotepad-AspNet-With-AzureTableStorage): Online note sharing for online tutor.
-- [Inventory & GST billing ERP](https://github.com/JicoDotNet/Full-Inventory-by-Asp-Net-Azure): This is private repo. Full ERP of Inventory, STock and Billing cloud based software for Indian Only
+- [Online Sharable eNotepad](https://github.com/JicoDotNet/Online-Sharable-eNotepad-AspNet-With-AzureTableStorage): Online note sharing for online tutor.
+- [Inventory & GST billing ERP](https://github.com/JicoDotNet/Full-Inventory-by-Asp-Net-Azure) - (Private): Full ERP of Inventory, Stock and Billing cloud based scalable software for Indian only
 
 ## Get in Touch
 
