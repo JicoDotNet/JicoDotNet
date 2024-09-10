@@ -28,7 +28,8 @@ Here are some of the projects I've worked on as personal level:
 
 - [Expense Management App](https://github.com/JicoDotNet/Expense-Management-Bucket): Small cloud based web app to manage daily Expense.
 - [Online Sharable eNotepad](https://github.com/JicoDotNet/Online-Sharable-eNotepad-AspNet-With-AzureTableStorage): Online note sharing for online tutor.
-- [Inventory & GST billing ERP - (Private)](https://github.com/JicoDotNet/Full-Inventory-by-Asp-Net-Azure): Full ERP of Inventory, Stock and Billing cloud based scalable software for Indian only
+- [Software Licensing Module ERP](https://github.com/JicoDotNet/Software-Licensing-Module-ERP-Net8.0): Software Licensing Module ERP.
+- [Inventory & GST billing ERP - (Private Repo)](https://github.com/JicoDotNet/Full-Inventory-by-Asp-Net-Azure): Full ERP of Inventory, Stock and Billing cloud based scalable software for Indian only
 
 ## Get in Touch
 
