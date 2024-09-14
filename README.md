@@ -4,6 +4,10 @@
 
 with 12 years of experience in software development and the last 5 years dedicated to tech team handling, I bring a wealth of expertise in `.NET Technology`, `Azure development` & `Cloud solutions`, and `GraphDB like Neo4j`. My career has spanned multiple domains, including `ECommerce`, `Retail`, `Business solutions`, `Social Platform` and `Enterprise-level solutions`, allowing me to develop a well-rounded skill set and a deep understanding of various industries.
 
+I'm Microsoft Certified: Azure Fundamentals.
+
+![microsoft-certified-fundamentals-badge150](https://github.com/user-attachments/assets/c46d1e7b-47b4-4eaa-b46f-04828eab7858)
+
 
 ## About Me
 
